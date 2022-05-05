@@ -1,0 +1,21 @@
+.banner {
+    display: flex;
+    background-image: url(https://media.newyorker.com/photos/60902b9e71ad4471831f0e24/master/w_2240,c_limit/Rosner-Mushrooms-blewit.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    text-align: center;
+
+}
+  
+.banner .container h1 {
+    color: white;
+    text-shadow: 1px 1px 10px rgba(78, 15, 123, 0.6);
+}
+  
+.banner p {
+    color: white;
+    font-size: 20px;
+    text-shadow: -5px -5px 30px rgba(78, 15, 123, 0.9);
+
+}
